@@ -13,7 +13,7 @@ NEW FILE CLONER TRAIL VARSION
 - pip install bs4 
 - pip install stdiomask 
 - git clone https://github.com/SPY1x1/FILE
-- cp FILE
+- cd FILE
 - python spy.py
 
 
